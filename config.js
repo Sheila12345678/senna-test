@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
+  ['+1 (717) 827-0159', 'fgmods, true],
   ['5491168352204']
 ] //Numeros de owner 
 
@@ -24,7 +24,7 @@ global.packname = 'Senna┃ᴮᴼᵀ'
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = 'velcek'
 global.fgig = 'https://www.instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
@@ -37,9 +37,9 @@ global.bgp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
 global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
 global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
 
-global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
+global.wait = '⌛ cargando\n*▬*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
+global.dmoji = '🐈‍⬛'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
